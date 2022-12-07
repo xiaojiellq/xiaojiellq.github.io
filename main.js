@@ -1,3 +1,4 @@
+"ui";
 var color = "#009688";
 
 var demo = '<drawer id="drawer">\
